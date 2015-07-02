@@ -1,0 +1,1 @@
+https://gist.githubusercontent.com/thejmazz/8995921d65f2be20d7a7/raw/61cb55e4bc48bdb07a13792cad5adb5718857a08/symlinkifyprompt.py
