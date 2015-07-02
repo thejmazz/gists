@@ -13,5 +13,5 @@ https://gist.githubusercontent.com/thejmazz/3cdf4fa0095e3879cdce/raw/b7384e9be94
 
 for url in ${urls[@]}
 do
-    curl $url -O
+    wget $url
 done
