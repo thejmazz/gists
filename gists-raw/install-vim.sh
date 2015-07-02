@@ -1,1 +1,0 @@
-https://gist.githubusercontent.com/thejmazz/a3804f4ce8c8582cae3a/raw/bb84826ae56bfd6396915e8266fbee5119926888/install-vim.sh

@@ -1,1 +1,0 @@
-https://gist.githubusercontent.com/thejmazz/f25d801e1ddbcb458e5f/raw/0e98f1c4a24332290bcffc3114e697ae2e02933f/install-python.sh

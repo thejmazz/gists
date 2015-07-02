@@ -1,1 +1,0 @@
-https://gist.githubusercontent.com/thejmazz/941ccec21316c1edfa9f/raw/846245966e62d32db2b55a69fdce0c978839d68b/flatuicolors.js

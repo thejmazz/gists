@@ -1,1 +1,0 @@
-https://gist.githubusercontent.com/thejmazz/6618ded4dae5e02ea836/raw/75b700fe917617758c3cdb89920b69048b5eb670/.vimrc
