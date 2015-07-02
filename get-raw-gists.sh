@@ -9,9 +9,10 @@ https://gist.githubusercontent.com/thejmazz/a3804f4ce8c8582cae3a/raw/bb84826ae56
 https://gist.githubusercontent.com/thejmazz/e071818db1c9f8ca3c53/raw/09eb465a4e10a924fc0f8f4f45c38d1295ede54a/preamble.tex
 https://gist.githubusercontent.com/thejmazz/8995921d65f2be20d7a7/raw/61cb55e4bc48bdb07a13792cad5adb5718857a08/symlinkifyprompt.py
 https://gist.githubusercontent.com/thejmazz/3cdf4fa0095e3879cdce/raw/b7384e9be94ed4785a586b6cccab01603228234e/xorg.conf
+https://gist.githubusercontent.com/thejmazz/5c2a4332f9821a9167d5/raw/30096d992970a7aabae5ca1e04e1fe0eb77c2613/ssh-init-config.sh
 )
 
 for url in ${urls[@]}
 do
-    curl $url -O
+    wget $url
 done
